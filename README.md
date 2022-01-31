@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @g33ksuperstar
-- 👀 I’m interested in programming, blockchain, hyperledger, backend.
-- 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on golang projects that can help me to learn
+- 👀 I’m interested in low level coding, reversing, malware, etc.
+- 🌱 I’m currently learning incident response and malware analysis
+- 💞️ I’m looking to collaborate on malware analysis projects that can help me to learn
 - 📫 How to reach me ...
 
 <!---
