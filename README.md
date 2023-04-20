@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @g33ksuperstar
-- 👀 I’m interested in low level coding, reversing, malware, etc.
-- 🌱 I’m currently learning incident response and malware analysis
-- 💞️ I’m looking to collaborate on malware analysis projects that can help me to learn
+- 👀 I’m interested in systems programming.
+- 🌱 I’m currently learning Go and backend programming.
+- 💞️ I’m looking to collaborate on Go(lang) projects that can help me to learn
 - 📫 How to reach me ...
 
 <!---
