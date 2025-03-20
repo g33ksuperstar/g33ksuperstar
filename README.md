@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @g33ksuperstar
+- 👋 Hi, I’m @g33ksuperstar.
 - 👀 I’m interested in systems programming.
-- 🌱 I’m currently learning Go and backend programming.
-- 💞️ I’m looking to collaborate on Go(lang) projects that can help me to learn
+- 🌱 I’m currently learning C and systems programming.
+- 💞️ I’m looking to collaborate on C (maybe Cpp) projects that can help me to learn.
 - 📫 How to reach me ...
 
 <!---
