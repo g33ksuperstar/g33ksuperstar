@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @g33ksuperstar.
 - 👀 I’m interested in systems programming.
-- 🌱 I’m currently learning C.
-- 💞️ I’m looking to collaborate on C (maybe Cpp) projects that can help me to learn.
+- 🌱 I’m currently learning Cpp.
+- 💞️ I’m looking to collaborate on Cpp (and C) projects that can help me to learn.
+- I wan't to get a job as a Cpp developer.
 - 📫 How to reach me ...
 
 <!---
